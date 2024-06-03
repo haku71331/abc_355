@@ -1,6 +1,4 @@
 //https://atcoder.jp/contests/abc355/tasks/abc355_c
-//解説を見た
-//https://atcoder.jp/contests/abc355/editorial/10073
 
 #include <iostream>
 #include <vector>
